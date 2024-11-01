@@ -25,9 +25,9 @@ Key Performance Indicators (KPIs) Requirements:
 *Good Loan* | *Bad Loan*
 ---|---
 1. Good Loan Application Percentage | 1. BAD Loan Application Percentage
-2. Good Loan Application | 2. BAD Loan Application 
-3. Good Loan Funded Amount | 3. BAD Loan Funded Amount 
-4. Good Loan Total Received Amount | 4. BAD Loan Total Received Amount
+2. Good Loan Application            | 2. BAD Loan Application 
+3. Good Loan Funded Amount          | 3. BAD Loan Funded Amount 
+4. Good Loan Total Received Amount  | 4. BAD Loan Total Received Amount
 
 **Loan Status Grid View**  
 In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by ‘Loan Status’. By providing insights into metrics such as ‘Total Loan Applications’, ‘Total Funded Amount’, ‘Total Amount Received’, ‘Month-to-Date(MTD) Funded Amount, ‘MTD Amount Received’, ‘Average Interest Rate ‘and ‘Average Dept-to-income Ratio(DTI)’, this grid view will empower us to make data-driven decisions and assess the health of your loan portfolio.
