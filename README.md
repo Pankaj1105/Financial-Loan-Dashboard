@@ -4,8 +4,6 @@
 - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGI2NDJkYjMtODkwMS00NjNmLWIzNWUtMjg3YmQzODNlM2MyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - [Portfolio Website](https://codebasics.io/portfolio/Pankaj-Shinde)
 
-# Blinkit Sales Report
-
 ## Problem Statement
 
 --------------------------PROBLEM STATEMENT -----------------------------------
